@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T15:52:41.420Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="4RFh2ZmtCoacvkPvi1pD" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-19T15:54:46.067Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="4WbHLCeYY3hFrTCliVTN" version="20.2.5" type="github">
   <diagram id="Vv94kJZP70gJv3WfLBMk" name="Page-1">
     <mxGraphModel dx="1061" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -169,6 +169,12 @@
         </mxCell>
         <mxCell id="CQJ7iR8nY9A5MEXB7DN9-52" value="DevOps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="62.80000000000001" y="410" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CQJ7iR8nY9A5MEXB7DN9-53" value="Lathe&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="515" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CQJ7iR8nY9A5MEXB7DN9-54" value="Cloud Proj Env" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="590" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
